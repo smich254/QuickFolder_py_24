@@ -1,0 +1,10 @@
+# Archivos y directorios generados por Python
+__pycache__/
+*.pyc
+
+# Carpeta del entorno virtual
+venv/
+
+# Carpetas generadas por PyInstaller
+build/
+dist/
